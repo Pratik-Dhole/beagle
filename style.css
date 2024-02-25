@@ -1,0 +1,61 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap')
+</style>
+
+
+
+
+
+
+
+#section-1{
+    margin-top: 47px;
+    margin-left: 38px;
+    width: 1643px;
+    height: 648px;
+    
+}
+#box{
+    width:1540px ;
+    height: 613px;
+    padding-left: 51.5px;
+    padding-right: 51.5px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border:2px solid black;
+}
+.text{
+    font-size: 40px;
+    font-family:inter;
+    line-height: 48.41px;
+}
+
+#section-2{
+    width: 1051px; 
+    height: 894px; 
+    margin-top: 34px;
+    margin-left: 58px;
+    margin-bottom: 77px;
+}
+#img{
+    width: 1051px; 
+    height: 874px;
+}
+#morei{
+    font-size: 40px;
+    font-family:inter;
+     
+}
+#section-3{
+    width: 1623px;
+    height: 469px;
+    margin-top: 77px;
+    margin-left: 58px;
+}
+#section-4{
+    width: 245px;
+    height: 48px;
+    margin-top: 34px;
+    margin-left: 58px;
+
+}
